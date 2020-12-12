@@ -52,7 +52,7 @@ export default class App {
 
         do{
 
-            if((i>=inicio)&&(i<=fin)){
+            if((i>=inicio && i<=fin)){
 
                 if(i%3===0){
                     aux= aux + i;
@@ -84,7 +84,7 @@ export default class App {
                 aux= aux + i;
                 aux1++;
             }else{
-                aux= aux+","+i+",";
+                aux= aux+","+i;
             }
         }
 
