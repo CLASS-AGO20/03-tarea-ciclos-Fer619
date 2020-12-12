@@ -113,7 +113,7 @@ console.log(app.sumatoriaSerieDos(5));
 console.log(app.esPrimo(7));
 console.log(app.esPrimo(10));
 
-console.log(app.obtnenerMultiplos(10, 33));
+console.log(app.obtnenerMultiplos(20, 35));
 
 console.log(app.obtenerImpares(10, 15));
 console.log(app.obtenerImpares(17, 10));
